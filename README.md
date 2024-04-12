@@ -7,13 +7,13 @@ Explore insights into hotel booking cancellations using this data analysis proje
 🏷️ Tags
 1. Data Analysis
 2. Excel
-3.Hotel Booking
-4.Data Visualization
-5.Kaggle Dataset
-6.Pivot Tables
-7.Dashboards8
-8.Beginner-Friendly
-9.Insights
+3. Hotel Booking
+4. Data Visualization
+5. Kaggle Dataset
+6. Pivot Tables
+7. Dashboards8
+8. Beginner-Friendly
+9. Insights
 
 <img width="1157" alt="Screenshot 2024-04-12 at 5 52 45 PM" src="https://github.com/anuragbisht94/Hotel-Booking/assets/30321490/c72473d9-907d-4ae1-a51f-3fc83035ecc2">
 
